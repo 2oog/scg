@@ -1,3 +1,6 @@
+# install dulu di terminal
+# pip install ollama
+
 import ollama
 
 OLLAMA_MODEL = "gemma3:4b"
